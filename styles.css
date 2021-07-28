@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  background-color: #E4F9F5;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-family: 'Pacifico', cursive;
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.full {
+  font-weight: normal;
+  margin: -51px auto 0 auto;
+  color: purple;
+}
+
+/* #E4F9F5 #FF67E7*/
+.topcontainer {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 135px;
+  margin: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 195px;
+  left: 210px;
+}
+
+.profile {
+  border-radius: 100%;
+}
+
+.skills-image {
+  background-color: white;
+  border-radius: 100%;
+  position: relative;
+  right: 475px;
+}
+
+.first-hr {
+  background-color: #E4F9F5;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FF3D68;
+  border-width: 10px;
+  /*this line of code enlarges those dots*/
+  width: 120px;
+  margin-top: 25px;
+}
+
+.skills {
+  background-color: #FF67E7;
+  padding-top: 35px;
+}
+
+.mypic {
+  border-radius: 100%;
+  padding-top: 30px;
+}
+
+.unlist {
+  display: inline-block;
+  padding: 0;
+  position: absolute;
+  top: 1347px;
+}
+
+.giphy {
+  position: relative;
+  right: 360px;
+  top: 8px;
+}
+
+.second-hr {
+  background-color: #FF67E7;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #E4F9F5;
+  border-width: 13px;
+  width: 175px;
+  padding-top: 75px;
+  margin-top: 80px;
+}
+
+.first-star {
+  position: absolute;
+  left: 190px;
+  top: 32px;
+  transform: rotate(45deg);
+}
+
+.leading {
+  text-decoration: underline;
+  font-weight: normal;
+  color: gold;
+}
+
+.my-name {
+  color: red;
+  line-height: 2;
+}
+
+.footer-link {
+  color: #11999E
+}
+
+.six-pack {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 435px;
+  bottom: 370px;
+}
+
+.born {
+  font-family: 'Pacifico', cursive;
+  font-size: 5rem;
+  color: gold;
+  position: relative;
+  right: 230px;
+  bottom: 8px;
+  transform: rotate(-7deg);
+}
+
+.second-plate {
+  background-color: skyblue;
+  padding-bottom: 15px;
+  padding-top: 40px;
+}
+
+.mine {
+  position: relative;
+  padding-top: 0;
+  background-color: #FFE194;
+  padding-bottom: 10px;
+}
+
+.bottom-container {
+  padding-bottom: 9px;
+  line-height: 2;
+}
+
+.third-hr {
+  background-color: #FFE194;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #E4F9F5;
+  border-width: 13px;
+  width: 175px;
+  padding-top: 20px;
+  margin-top: 122px;
+}
+
+.hobbies {
+  padding-right: 210px;
+  display: inline-block;
+  line-height: 2;
+}
